@@ -106,7 +106,3 @@ MAX_LOG_SIZE = 1_048_576  # bytes (1 MB)
 
 ---
 
-## Licencia
-
-Este proyecto está licenciado bajo la **MIT License**.  
-Consulta el fichero [LICENSE](LICENSE) para más detalles.
